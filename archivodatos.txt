@@ -1,0 +1,10 @@
+Nombre: da
+Apellido: rt
+Cédula: 43
+Total factura: 67
+Frecuente: si
+Nombre: da
+Apellido: rt
+Cédula: 43
+Total factura: 67
+Frecuente: si
